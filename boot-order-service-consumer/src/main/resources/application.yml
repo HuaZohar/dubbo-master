@@ -1,0 +1,12 @@
+
+
+#dubbo:
+#  application:
+#    name: boot-order-service-consumer
+#  registry:
+#    address:  192.168.43.177:2181
+#    protocol: zookeeper
+#  monitor:
+#    protocol: registry
+server:
+  port: 2001

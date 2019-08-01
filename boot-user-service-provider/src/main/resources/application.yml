@@ -1,0 +1,13 @@
+
+#
+#dubbo:
+#  application:
+#    name: boot-user-service-provider
+#  registry:
+#    address:  192.168.43.177:2181
+#    protocol: zookeeper
+#  protocol:
+#    name: dubbo
+#    port: 20880
+#  monitor:
+#    protocol: registry
