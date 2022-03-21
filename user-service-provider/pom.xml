@@ -36,7 +36,7 @@
     <dependency>
       <groupId>com.alibaba</groupId>
       <artifactId>dubbo</artifactId>
-      <version>2.6.2</version>
+      <version>2.6.9</version>
     </dependency>
     <!-- 由于我们使用zookeeper作为注册中心，所以需要操作zookeeper
 dubbo 2.6以前的版本引入zkclient操作zookeeper
